@@ -1,0 +1,19 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    color: brown;
+}
+img{
+    margin: auto;
+    width: 200px;
+    height: 200px;
+    display: inline;
+
+    
+
+}
+div h1{
+    color: aliceblue;
+    background-color: brown;
+}

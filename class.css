@@ -1,0 +1,25 @@
+.a{
+    border:2px solid black;
+    font-style: normal;
+    color:black;
+    width: 250px;
+    
+    padding: 10px;
+    
+    float: left;
+    
+}
+.a:hover{
+    background-color: aqua;
+}
+
+#a1{
+    color: rgb(131, 24, 47);
+}
+.b{
+    background-color: bisque;
+
+}
+div .para{
+    color: blue;
+}
