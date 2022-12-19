@@ -1,0 +1,19 @@
+div{
+    border: 2px solid black;
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    background-color: blanchedalmond;
+    padding: 12px;
+}
+input[type=radio]{
+    background-color: blueviolet;
+    width: 10%;
+}
+input[type=date]:hover{
+    background-color: bisque;
+
+}
+input[type=submit]:hover{
+    background-color: bisque;
+}

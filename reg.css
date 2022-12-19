@@ -1,0 +1,31 @@
+div{
+    background-color: rgb(241, 179, 235);
+    text-align: start;
+    color: black;
+    border: 2px solid black ;
+    padding-left: 700px;
+    
+}
+input[type=submit]:hover{
+    background-color: bisque;   
+}
+
+input[type=text]{
+    background-color: blanchedalmond;
+}
+input[type=email]{
+    background-color: blanchedalmond;
+}
+input[type=date]{
+    background-color: blanchedalmond;
+}
+textarea{
+    background-color: blanchedalmond;
+}
+input[type=number]{
+    background-color: blanchedalmond;
+}
+input[type=submit]{
+    background-color: blanchedalmond;
+    margin-left: 50px;
+}
